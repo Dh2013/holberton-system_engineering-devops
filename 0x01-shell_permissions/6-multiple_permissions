@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod --xr- hello
+chmod ug ,ro  hello
 
